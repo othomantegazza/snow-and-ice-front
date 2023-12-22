@@ -6,9 +6,3 @@ editor_options:
   chunk_output_type: console
 ---
 
-# My Analysis
-
-```{r}
-print("Hello There!")
-```
-
