@@ -1,6 +1,6 @@
 ---
-title: "Start Your Quarto Project Here"
-author: "Yourself"
+title: "Snow and Ice"
+author: "Otho Mantegazza"
 date: today
 editor_options: 
   chunk_output_type: console
